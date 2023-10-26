@@ -1,4 +1,6 @@
-﻿namespace SpeechProcessor
+﻿using SpeechProcessor.Generation;
+
+namespace SpeechProcessor
 {
     internal class Program
     {
